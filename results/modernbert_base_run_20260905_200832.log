@@ -1,0 +1,201 @@
+embeddings.norm.weight [768]
+embeddings.tok_embeddings.weight [50368, 768]
+final_norm.weight [768]
+layers.0.attn.Wo.weight [768, 768]
+layers.0.attn.Wqkv.weight [2304, 768]
+layers.0.mlp.Wi.weight [2304, 768]
+layers.0.mlp.Wo.weight [768, 1152]
+layers.0.mlp_norm.weight [768]
+layers.1.attn.Wo.weight [768, 768]
+layers.1.attn.Wqkv.weight [2304, 768]
+layers.1.attn_norm.weight [768]
+layers.1.mlp.Wi.weight [2304, 768]
+layers.1.mlp.Wo.weight [768, 1152]
+layers.1.mlp_norm.weight [768]
+layers.10.attn.Wo.weight [768, 768]
+layers.10.attn.Wqkv.weight [2304, 768]
+layers.10.attn_norm.weight [768]
+layers.10.mlp.Wi.weight [2304, 768]
+layers.10.mlp.Wo.weight [768, 1152]
+layers.10.mlp_norm.weight [768]
+layers.11.attn.Wo.weight [768, 768]
+layers.11.attn.Wqkv.weight [2304, 768]
+layers.11.attn_norm.weight [768]
+layers.11.mlp.Wi.weight [2304, 768]
+layers.11.mlp.Wo.weight [768, 1152]
+layers.11.mlp_norm.weight [768]
+layers.12.attn.Wo.weight [768, 768]
+layers.12.attn.Wqkv.weight [2304, 768]
+layers.12.attn_norm.weight [768]
+layers.12.mlp.Wi.weight [2304, 768]
+layers.12.mlp.Wo.weight [768, 1152]
+layers.12.mlp_norm.weight [768]
+layers.13.attn.Wo.weight [768, 768]
+layers.13.attn.Wqkv.weight [2304, 768]
+layers.13.attn_norm.weight [768]
+layers.13.mlp.Wi.weight [2304, 768]
+layers.13.mlp.Wo.weight [768, 1152]
+layers.13.mlp_norm.weight [768]
+layers.14.attn.Wo.weight [768, 768]
+layers.14.attn.Wqkv.weight [2304, 768]
+layers.14.attn_norm.weight [768]
+layers.14.mlp.Wi.weight [2304, 768]
+layers.14.mlp.Wo.weight [768, 1152]
+layers.14.mlp_norm.weight [768]
+layers.15.attn.Wo.weight [768, 768]
+layers.15.attn.Wqkv.weight [2304, 768]
+layers.15.attn_norm.weight [768]
+layers.15.mlp.Wi.weight [2304, 768]
+layers.15.mlp.Wo.weight [768, 1152]
+layers.15.mlp_norm.weight [768]
+layers.16.attn.Wo.weight [768, 768]
+layers.16.attn.Wqkv.weight [2304, 768]
+layers.16.attn_norm.weight [768]
+layers.16.mlp.Wi.weight [2304, 768]
+layers.16.mlp.Wo.weight [768, 1152]
+layers.16.mlp_norm.weight [768]
+layers.17.attn.Wo.weight [768, 768]
+layers.17.attn.Wqkv.weight [2304, 768]
+layers.17.attn_norm.weight [768]
+layers.17.mlp.Wi.weight [2304, 768]
+layers.17.mlp.Wo.weight [768, 1152]
+layers.17.mlp_norm.weight [768]
+layers.18.attn.Wo.weight [768, 768]
+layers.18.attn.Wqkv.weight [2304, 768]
+layers.18.attn_norm.weight [768]
+layers.18.mlp.Wi.weight [2304, 768]
+layers.18.mlp.Wo.weight [768, 1152]
+layers.18.mlp_norm.weight [768]
+layers.19.attn.Wo.weight [768, 768]
+layers.19.attn.Wqkv.weight [2304, 768]
+layers.19.attn_norm.weight [768]
+layers.19.mlp.Wi.weight [2304, 768]
+layers.19.mlp.Wo.weight [768, 1152]
+layers.19.mlp_norm.weight [768]
+layers.2.attn.Wo.weight [768, 768]
+layers.2.attn.Wqkv.weight [2304, 768]
+layers.2.attn_norm.weight [768]
+layers.2.mlp.Wi.weight [2304, 768]
+layers.2.mlp.Wo.weight [768, 1152]
+layers.2.mlp_norm.weight [768]
+layers.20.attn.Wo.weight [768, 768]
+layers.20.attn.Wqkv.weight [2304, 768]
+layers.20.attn_norm.weight [768]
+layers.20.mlp.Wi.weight [2304, 768]
+layers.20.mlp.Wo.weight [768, 1152]
+layers.20.mlp_norm.weight [768]
+layers.21.attn.Wo.weight [768, 768]
+layers.21.attn.Wqkv.weight [2304, 768]
+layers.21.attn_norm.weight [768]
+layers.21.mlp.Wi.weight [2304, 768]
+layers.21.mlp.Wo.weight [768, 1152]
+layers.21.mlp_norm.weight [768]
+layers.3.attn.Wo.weight [768, 768]
+layers.3.attn.Wqkv.weight [2304, 768]
+layers.3.attn_norm.weight [768]
+layers.3.mlp.Wi.weight [2304, 768]
+layers.3.mlp.Wo.weight [768, 1152]
+layers.3.mlp_norm.weight [768]
+layers.4.attn.Wo.weight [768, 768]
+layers.4.attn.Wqkv.weight [2304, 768]
+layers.4.attn_norm.weight [768]
+layers.4.mlp.Wi.weight [2304, 768]
+layers.4.mlp.Wo.weight [768, 1152]
+layers.4.mlp_norm.weight [768]
+layers.5.attn.Wo.weight [768, 768]
+layers.5.attn.Wqkv.weight [2304, 768]
+layers.5.attn_norm.weight [768]
+layers.5.mlp.Wi.weight [2304, 768]
+layers.5.mlp.Wo.weight [768, 1152]
+layers.5.mlp_norm.weight [768]
+layers.6.attn.Wo.weight [768, 768]
+layers.6.attn.Wqkv.weight [2304, 768]
+layers.6.attn_norm.weight [768]
+layers.6.mlp.Wi.weight [2304, 768]
+layers.6.mlp.Wo.weight [768, 1152]
+layers.6.mlp_norm.weight [768]
+layers.7.attn.Wo.weight [768, 768]
+layers.7.attn.Wqkv.weight [2304, 768]
+layers.7.attn_norm.weight [768]
+layers.7.mlp.Wi.weight [2304, 768]
+layers.7.mlp.Wo.weight [768, 1152]
+layers.7.mlp_norm.weight [768]
+layers.8.attn.Wo.weight [768, 768]
+layers.8.attn.Wqkv.weight [2304, 768]
+layers.8.attn_norm.weight [768]
+layers.8.mlp.Wi.weight [2304, 768]
+layers.8.mlp.Wo.weight [768, 1152]
+layers.8.mlp_norm.weight [768]
+layers.9.attn.Wo.weight [768, 768]
+layers.9.attn.Wqkv.weight [2304, 768]
+layers.9.attn_norm.weight [768]
+layers.9.mlp.Wi.weight [2304, 768]
+layers.9.mlp.Wo.weight [768, 1152]
+layers.9.mlp_norm.weight [768]
+embeddings.tok_embeddings.weight
+================
+modernbert_base================
+
+shape (Vxd) (V lines for d columns): 50368x768
+V (vocabulary): 50368
+d (dim): 768
+V/d (proportion between size of vocab and dim. Quantify how the vocab is larger than vetorial space): 65.6
+mean norm: 2.5531  (sd 0.2781)
+centroid norm: 0.5071
+measure I(W) in raw matrix
+[[-0.14242256  0.05511931 -0.37927607 ... -0.01490152 -0.02493158
+  -0.21323171]
+ [-0.04639168  0.01172442 -0.01612646 ...  0.03838309 -0.0128722
+   0.03226124]
+ [-0.09370834 -0.01400663 -0.03013015 ...  0.03801185 -0.02668196
+  -0.024142  ]
+ ...
+ [-0.02260482 -0.0112367  -0.01879985 ... -0.00627119 -0.01600242
+  -0.0139819 ]
+ [-0.02229425 -0.01149309 -0.01904269 ... -0.00599974 -0.01531698
+  -0.01385685]
+ [-0.0221499  -0.01243341 -0.01953674 ... -0.00640556 -0.0154269
+  -0.01438584]]
+I(W) = 0.5901
+I(W) 2 = 0.3747
+measuring I(W) for mean centered matrix (Bis et al. 2021)
+[[-1.26824139e-01  7.61763227e-02 -3.48932849e-01 ... -7.25266474e-03
+  -6.16314642e-02 -2.03330945e-01]
+ [-3.07932594e-02  3.27814368e-02  1.42167620e-02 ...  4.60319431e-02
+  -4.95720885e-02  4.21620056e-02]
+ [-7.81099187e-02  7.05037892e-03  2.13069837e-04 ...  4.56607067e-02
+  -6.33818458e-02 -1.42412365e-02]
+ ...
+ [-7.00640355e-03  9.82031013e-03  1.15433652e-02 ...  1.37767152e-03
+  -5.27023065e-02 -4.08113026e-03]
+ [-6.69583168e-03  9.56392448e-03  1.13005284e-02 ...  1.64911433e-03
+  -5.20168624e-02 -3.95608158e-03]
+ [-6.55148041e-03  8.62360533e-03  1.08064804e-02 ...  1.24329937e-03
+  -5.21267827e-02 -4.48507001e-03]]
+I(W centered) = 0.9321
+I(W centered) 2 = 0.9321
+=========================================
+isotropic reference -> same shape and norm
+[[ 0.0152407  -0.01601342  0.07763044 ... -0.03694706  0.00107415
+  -0.02391379]
+ [-0.02647309  0.01861184  0.02586839 ... -0.01505853  0.06218839
+  -0.05284426]
+ [-0.0036      0.12568292 -0.0097777  ...  0.12657128  0.01480324
+  -0.02858442]
+ ...
+ [ 0.01469387  0.00792327  0.02978346 ... -0.03678511 -0.00485744
+  -0.01100698]
+ [ 0.03100863 -0.00871346  0.00200657 ...  0.01484792 -0.03919893
+   0.0009181 ]
+ [ 0.01535273  0.00575055  0.0060121  ... -0.01100308 -0.01670324
+   0.04364263]]
+Traceback (most recent call last):
+  File "/home/caiomadeira/Desktop/mbert-latent-space/main.py", line 294, in <module>
+    ref1, ref2 = compute_both_IW(isotropic_reference(W))
+                 ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/caiomadeira/Desktop/mbert-latent-space/main.py", line 102, in compute_both_IW
+    mp = S.max(axis=0)
+  File "/home/caiomadeira/Desktop/mbert-latent-space/venv/lib/python3.14/site-packages/numpy/_core/_methods.py", line 39, in _amax
+    def _amax(a, axis=None, out=None, keepdims=False,
+    
+KeyboardInterrupt

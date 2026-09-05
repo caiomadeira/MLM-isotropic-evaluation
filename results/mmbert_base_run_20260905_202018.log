@@ -1,0 +1,255 @@
+embeddings.norm.weight [768]
+embeddings.tok_embeddings.weight [256000, 768]
+final_norm.weight [768]
+layers.0.attn.Wo.weight [768, 768]
+layers.0.attn.Wqkv.weight [2304, 768]
+layers.0.mlp.Wi.weight [2304, 768]
+layers.0.mlp.Wo.weight [768, 1152]
+layers.0.mlp_norm.weight [768]
+layers.1.attn.Wo.weight [768, 768]
+layers.1.attn.Wqkv.weight [2304, 768]
+layers.1.attn_norm.weight [768]
+layers.1.mlp.Wi.weight [2304, 768]
+layers.1.mlp.Wo.weight [768, 1152]
+layers.1.mlp_norm.weight [768]
+layers.10.attn.Wo.weight [768, 768]
+layers.10.attn.Wqkv.weight [2304, 768]
+layers.10.attn_norm.weight [768]
+layers.10.mlp.Wi.weight [2304, 768]
+layers.10.mlp.Wo.weight [768, 1152]
+layers.10.mlp_norm.weight [768]
+layers.11.attn.Wo.weight [768, 768]
+layers.11.attn.Wqkv.weight [2304, 768]
+layers.11.attn_norm.weight [768]
+layers.11.mlp.Wi.weight [2304, 768]
+layers.11.mlp.Wo.weight [768, 1152]
+layers.11.mlp_norm.weight [768]
+layers.12.attn.Wo.weight [768, 768]
+layers.12.attn.Wqkv.weight [2304, 768]
+layers.12.attn_norm.weight [768]
+layers.12.mlp.Wi.weight [2304, 768]
+layers.12.mlp.Wo.weight [768, 1152]
+layers.12.mlp_norm.weight [768]
+layers.13.attn.Wo.weight [768, 768]
+layers.13.attn.Wqkv.weight [2304, 768]
+layers.13.attn_norm.weight [768]
+layers.13.mlp.Wi.weight [2304, 768]
+layers.13.mlp.Wo.weight [768, 1152]
+layers.13.mlp_norm.weight [768]
+layers.14.attn.Wo.weight [768, 768]
+layers.14.attn.Wqkv.weight [2304, 768]
+layers.14.attn_norm.weight [768]
+layers.14.mlp.Wi.weight [2304, 768]
+layers.14.mlp.Wo.weight [768, 1152]
+layers.14.mlp_norm.weight [768]
+layers.15.attn.Wo.weight [768, 768]
+layers.15.attn.Wqkv.weight [2304, 768]
+layers.15.attn_norm.weight [768]
+layers.15.mlp.Wi.weight [2304, 768]
+layers.15.mlp.Wo.weight [768, 1152]
+layers.15.mlp_norm.weight [768]
+layers.16.attn.Wo.weight [768, 768]
+layers.16.attn.Wqkv.weight [2304, 768]
+layers.16.attn_norm.weight [768]
+layers.16.mlp.Wi.weight [2304, 768]
+layers.16.mlp.Wo.weight [768, 1152]
+layers.16.mlp_norm.weight [768]
+layers.17.attn.Wo.weight [768, 768]
+layers.17.attn.Wqkv.weight [2304, 768]
+layers.17.attn_norm.weight [768]
+layers.17.mlp.Wi.weight [2304, 768]
+layers.17.mlp.Wo.weight [768, 1152]
+layers.17.mlp_norm.weight [768]
+layers.18.attn.Wo.weight [768, 768]
+layers.18.attn.Wqkv.weight [2304, 768]
+layers.18.attn_norm.weight [768]
+layers.18.mlp.Wi.weight [2304, 768]
+layers.18.mlp.Wo.weight [768, 1152]
+layers.18.mlp_norm.weight [768]
+layers.19.attn.Wo.weight [768, 768]
+layers.19.attn.Wqkv.weight [2304, 768]
+layers.19.attn_norm.weight [768]
+layers.19.mlp.Wi.weight [2304, 768]
+layers.19.mlp.Wo.weight [768, 1152]
+layers.19.mlp_norm.weight [768]
+layers.2.attn.Wo.weight [768, 768]
+layers.2.attn.Wqkv.weight [2304, 768]
+layers.2.attn_norm.weight [768]
+layers.2.mlp.Wi.weight [2304, 768]
+layers.2.mlp.Wo.weight [768, 1152]
+layers.2.mlp_norm.weight [768]
+layers.20.attn.Wo.weight [768, 768]
+layers.20.attn.Wqkv.weight [2304, 768]
+layers.20.attn_norm.weight [768]
+layers.20.mlp.Wi.weight [2304, 768]
+layers.20.mlp.Wo.weight [768, 1152]
+layers.20.mlp_norm.weight [768]
+layers.21.attn.Wo.weight [768, 768]
+layers.21.attn.Wqkv.weight [2304, 768]
+layers.21.attn_norm.weight [768]
+layers.21.mlp.Wi.weight [2304, 768]
+layers.21.mlp.Wo.weight [768, 1152]
+layers.21.mlp_norm.weight [768]
+layers.3.attn.Wo.weight [768, 768]
+layers.3.attn.Wqkv.weight [2304, 768]
+layers.3.attn_norm.weight [768]
+layers.3.mlp.Wi.weight [2304, 768]
+layers.3.mlp.Wo.weight [768, 1152]
+layers.3.mlp_norm.weight [768]
+layers.4.attn.Wo.weight [768, 768]
+layers.4.attn.Wqkv.weight [2304, 768]
+layers.4.attn_norm.weight [768]
+layers.4.mlp.Wi.weight [2304, 768]
+layers.4.mlp.Wo.weight [768, 1152]
+layers.4.mlp_norm.weight [768]
+layers.5.attn.Wo.weight [768, 768]
+layers.5.attn.Wqkv.weight [2304, 768]
+layers.5.attn_norm.weight [768]
+layers.5.mlp.Wi.weight [2304, 768]
+layers.5.mlp.Wo.weight [768, 1152]
+layers.5.mlp_norm.weight [768]
+layers.6.attn.Wo.weight [768, 768]
+layers.6.attn.Wqkv.weight [2304, 768]
+layers.6.attn_norm.weight [768]
+layers.6.mlp.Wi.weight [2304, 768]
+layers.6.mlp.Wo.weight [768, 1152]
+layers.6.mlp_norm.weight [768]
+layers.7.attn.Wo.weight [768, 768]
+layers.7.attn.Wqkv.weight [2304, 768]
+layers.7.attn_norm.weight [768]
+layers.7.mlp.Wi.weight [2304, 768]
+layers.7.mlp.Wo.weight [768, 1152]
+layers.7.mlp_norm.weight [768]
+layers.8.attn.Wo.weight [768, 768]
+layers.8.attn.Wqkv.weight [2304, 768]
+layers.8.attn_norm.weight [768]
+layers.8.mlp.Wi.weight [2304, 768]
+layers.8.mlp.Wo.weight [768, 1152]
+layers.8.mlp_norm.weight [768]
+layers.9.attn.Wo.weight [768, 768]
+layers.9.attn.Wqkv.weight [2304, 768]
+layers.9.attn_norm.weight [768]
+layers.9.mlp.Wi.weight [2304, 768]
+layers.9.mlp.Wo.weight [768, 1152]
+layers.9.mlp_norm.weight [768]
+embeddings.tok_embeddings.weight
+================
+mmbert_base================
+
+shape (Vxd) (V lines for d columns): 256000x768
+V (vocabulary): 256000
+d (dim): 768
+V/d (proportion between size of vocab and dim. Quantify how the vocab is larger than vetorial space): 333.3
+mean norm: 1.4623  (sd 0.1309)
+centroid norm: 0.2240
+measure I(W) in raw matrix
+[[ 0.00429112 -0.00122091  0.00321027 ...  0.00764787  0.00919953
+   0.01357244]
+ [-0.0139828   0.00283653 -0.03123528 ... -0.02038617 -0.02193413
+  -0.01782006]
+ [-0.0082279   0.01604657  0.00028175 ...  0.04712358 -0.03605975
+   0.00249544]
+ ...
+ [-0.00585041 -0.01997052 -0.05031866 ...  0.00521257  0.05155415
+   0.03080871]
+ [-0.00090726 -0.01206107 -0.00820164 ...  0.056185    0.02107602
+   0.01838137]
+ [ 0.0042908  -0.00122088  0.00321013 ...  0.00764735  0.00919896
+   0.01357198]]
+I(W) = 0.7933
+I(W) 2 = 0.6437
+measuring I(W) for mean centered matrix (Bis et al. 2021)
+[[-0.00598537  0.00189501  0.00040986 ... -0.00089604  0.0012045
+   0.00840442]
+ [-0.0242593   0.00595245 -0.03403568 ... -0.02893008 -0.02992916
+  -0.02298808]
+ [-0.0185044   0.01916248 -0.00251865 ...  0.03857967 -0.04405478
+  -0.00267258]
+ ...
+ [-0.0161269  -0.0168546  -0.05311906 ... -0.00333134  0.04355912
+   0.02564069]
+ [-0.01118375 -0.00894515 -0.01100204 ...  0.04764109  0.01308098
+   0.01321335]
+ [-0.00598569  0.00189504  0.00040973 ... -0.00089656  0.00120392
+   0.00840396]]
+I(W centered) = 0.9909
+I(W centered) 2 = 0.9899
+=========================================
+isotropic reference -> same shape and norm
+[[ 0.00149169 -0.00156732  0.00759809 ... -0.0036162   0.00010513
+  -0.00234057]
+ [-0.04027435  0.02831477  0.03935439 ... -0.02290902  0.09460915
+  -0.08039363]
+ [-0.00177094  0.06182688 -0.00480992 ...  0.06226389  0.00728212
+  -0.01406146]
+ ...
+ [ 0.02227187 -0.00592848  0.01722845 ... -0.00810925 -0.00699631
+   0.02089824]
+ [-0.0547243   0.05391597 -0.08027078 ... -0.00547392 -0.02875511
+  -0.01017184]
+ [-0.007745   -0.00015399  0.01536943 ... -0.022365   -0.00262325
+  -0.01937733]]
+I(W reference) = 0.9991
+I(W reference) 2 = 0.9991
+=========================================
+plots
+mmbert_base input
+2 axis (d=2) covers 3.4% of variance
+=========================================
+====== MY REPORT CODE ============
+==========================================================================
+ mmbert_base | embeddings.tok_embeddings.weight | 256000 x 768
+==========================================================================
+
+=== EMBEDDING "CLOUD" SHAPE ===
+
+rows mean norm=  1.4623  (dp 0.1309)
+mean norm of vector ||w_bar|| =   0.2240
+relative displacement ||w_bar||/mean norm=  0.1532
+mean angle between one token and mean vector:     81.2 degrees
+mean cosine between tokens pairs =   0.0240
+
+=== PARTITION FUNCTION (I(W)) ===
+
+Z(c) = sum exp(<c,wi>) about the 256000 tokens. c travesers the 768 eigenvectors of W^T W.
+
+                                                    c = +v   c = +v e -v
+    I(W) on the original matrix                     0.7933        0.6437
+    I(W) on matrix - mean vector                    0.9909        0.9899
+    I(W) with noise and same norms                  0.9991        0.9991
+    predict value by exp(-k*||w_bar||)              0.7993        0.6389
+None
+====== MACHINA ORIGINAL CODE ============
+256000 768
+==========================================================================
+mmbert_base | 256000x768
+==========================================================================
+partition_function.compute_IW
+I(W), matrix in float32: 0.775039
+I(W), matrix in float64: 0.793300
+difference between them: 1.83e-02
+compute_both_IW, 1 signal: 0.793300
+dif for compute_both_IW: 2.78e-15
+
+I(W centered), float64: 0.990850
+my Wc1: 0.990850
+
+ Machina cosine_improvement.fast_cosine
+
+
+Fast Cosine took 0.03 seconds
+mean cossine, 256000 tokens : 0.023978
+
+Fast Cosine took 0.00 seconds
+
+Slow cosine took 0.52 seconds
+
+conference in a sample of 10000 tokens:
+fast_cosine (O(n)): 0.023620
+slow_cosine (O(n^2)): 0.023620
+difference: 3.73e-09
+mean cosine: 0.0240
+relative displacement^2 : 0.0235
+mean angle between two random tokens: 88.6 degrees
+==========================================================================
+{'modelo': 'mmbert_base', 'IW_machina_fp32': 0.7750388979911804, 'IW_machina_fp64': 0.793299576514127, 'cos_medio': 0.023978250101208687, 'cos_amostra_fast': 0.023620372638106346, 'cos_amostra_slow': 0.023620368912816048}

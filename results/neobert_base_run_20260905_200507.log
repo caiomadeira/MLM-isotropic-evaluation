@@ -1,0 +1,296 @@
+encoder.weight [30522, 768]
+layer_norm.weight [768]
+transformer_encoder.0.attention_norm.weight [768]
+transformer_encoder.0.ffn.w12.weight [4096, 768]
+transformer_encoder.0.ffn.w3.weight [768, 2048]
+transformer_encoder.0.ffn_norm.weight [768]
+transformer_encoder.0.qkv.weight [2304, 768]
+transformer_encoder.0.wo.weight [768, 768]
+transformer_encoder.1.attention_norm.weight [768]
+transformer_encoder.1.ffn.w12.weight [4096, 768]
+transformer_encoder.1.ffn.w3.weight [768, 2048]
+transformer_encoder.1.ffn_norm.weight [768]
+transformer_encoder.1.qkv.weight [2304, 768]
+transformer_encoder.1.wo.weight [768, 768]
+transformer_encoder.10.attention_norm.weight [768]
+transformer_encoder.10.ffn.w12.weight [4096, 768]
+transformer_encoder.10.ffn.w3.weight [768, 2048]
+transformer_encoder.10.ffn_norm.weight [768]
+transformer_encoder.10.qkv.weight [2304, 768]
+transformer_encoder.10.wo.weight [768, 768]
+transformer_encoder.11.attention_norm.weight [768]
+transformer_encoder.11.ffn.w12.weight [4096, 768]
+transformer_encoder.11.ffn.w3.weight [768, 2048]
+transformer_encoder.11.ffn_norm.weight [768]
+transformer_encoder.11.qkv.weight [2304, 768]
+transformer_encoder.11.wo.weight [768, 768]
+transformer_encoder.12.attention_norm.weight [768]
+transformer_encoder.12.ffn.w12.weight [4096, 768]
+transformer_encoder.12.ffn.w3.weight [768, 2048]
+transformer_encoder.12.ffn_norm.weight [768]
+transformer_encoder.12.qkv.weight [2304, 768]
+transformer_encoder.12.wo.weight [768, 768]
+transformer_encoder.13.attention_norm.weight [768]
+transformer_encoder.13.ffn.w12.weight [4096, 768]
+transformer_encoder.13.ffn.w3.weight [768, 2048]
+transformer_encoder.13.ffn_norm.weight [768]
+transformer_encoder.13.qkv.weight [2304, 768]
+transformer_encoder.13.wo.weight [768, 768]
+transformer_encoder.14.attention_norm.weight [768]
+transformer_encoder.14.ffn.w12.weight [4096, 768]
+transformer_encoder.14.ffn.w3.weight [768, 2048]
+transformer_encoder.14.ffn_norm.weight [768]
+transformer_encoder.14.qkv.weight [2304, 768]
+transformer_encoder.14.wo.weight [768, 768]
+transformer_encoder.15.attention_norm.weight [768]
+transformer_encoder.15.ffn.w12.weight [4096, 768]
+transformer_encoder.15.ffn.w3.weight [768, 2048]
+transformer_encoder.15.ffn_norm.weight [768]
+transformer_encoder.15.qkv.weight [2304, 768]
+transformer_encoder.15.wo.weight [768, 768]
+transformer_encoder.16.attention_norm.weight [768]
+transformer_encoder.16.ffn.w12.weight [4096, 768]
+transformer_encoder.16.ffn.w3.weight [768, 2048]
+transformer_encoder.16.ffn_norm.weight [768]
+transformer_encoder.16.qkv.weight [2304, 768]
+transformer_encoder.16.wo.weight [768, 768]
+transformer_encoder.17.attention_norm.weight [768]
+transformer_encoder.17.ffn.w12.weight [4096, 768]
+transformer_encoder.17.ffn.w3.weight [768, 2048]
+transformer_encoder.17.ffn_norm.weight [768]
+transformer_encoder.17.qkv.weight [2304, 768]
+transformer_encoder.17.wo.weight [768, 768]
+transformer_encoder.18.attention_norm.weight [768]
+transformer_encoder.18.ffn.w12.weight [4096, 768]
+transformer_encoder.18.ffn.w3.weight [768, 2048]
+transformer_encoder.18.ffn_norm.weight [768]
+transformer_encoder.18.qkv.weight [2304, 768]
+transformer_encoder.18.wo.weight [768, 768]
+transformer_encoder.19.attention_norm.weight [768]
+transformer_encoder.19.ffn.w12.weight [4096, 768]
+transformer_encoder.19.ffn.w3.weight [768, 2048]
+transformer_encoder.19.ffn_norm.weight [768]
+transformer_encoder.19.qkv.weight [2304, 768]
+transformer_encoder.19.wo.weight [768, 768]
+transformer_encoder.2.attention_norm.weight [768]
+transformer_encoder.2.ffn.w12.weight [4096, 768]
+transformer_encoder.2.ffn.w3.weight [768, 2048]
+transformer_encoder.2.ffn_norm.weight [768]
+transformer_encoder.2.qkv.weight [2304, 768]
+transformer_encoder.2.wo.weight [768, 768]
+transformer_encoder.20.attention_norm.weight [768]
+transformer_encoder.20.ffn.w12.weight [4096, 768]
+transformer_encoder.20.ffn.w3.weight [768, 2048]
+transformer_encoder.20.ffn_norm.weight [768]
+transformer_encoder.20.qkv.weight [2304, 768]
+transformer_encoder.20.wo.weight [768, 768]
+transformer_encoder.21.attention_norm.weight [768]
+transformer_encoder.21.ffn.w12.weight [4096, 768]
+transformer_encoder.21.ffn.w3.weight [768, 2048]
+transformer_encoder.21.ffn_norm.weight [768]
+transformer_encoder.21.qkv.weight [2304, 768]
+transformer_encoder.21.wo.weight [768, 768]
+transformer_encoder.22.attention_norm.weight [768]
+transformer_encoder.22.ffn.w12.weight [4096, 768]
+transformer_encoder.22.ffn.w3.weight [768, 2048]
+transformer_encoder.22.ffn_norm.weight [768]
+transformer_encoder.22.qkv.weight [2304, 768]
+transformer_encoder.22.wo.weight [768, 768]
+transformer_encoder.23.attention_norm.weight [768]
+transformer_encoder.23.ffn.w12.weight [4096, 768]
+transformer_encoder.23.ffn.w3.weight [768, 2048]
+transformer_encoder.23.ffn_norm.weight [768]
+transformer_encoder.23.qkv.weight [2304, 768]
+transformer_encoder.23.wo.weight [768, 768]
+transformer_encoder.24.attention_norm.weight [768]
+transformer_encoder.24.ffn.w12.weight [4096, 768]
+transformer_encoder.24.ffn.w3.weight [768, 2048]
+transformer_encoder.24.ffn_norm.weight [768]
+transformer_encoder.24.qkv.weight [2304, 768]
+transformer_encoder.24.wo.weight [768, 768]
+transformer_encoder.25.attention_norm.weight [768]
+transformer_encoder.25.ffn.w12.weight [4096, 768]
+transformer_encoder.25.ffn.w3.weight [768, 2048]
+transformer_encoder.25.ffn_norm.weight [768]
+transformer_encoder.25.qkv.weight [2304, 768]
+transformer_encoder.25.wo.weight [768, 768]
+transformer_encoder.26.attention_norm.weight [768]
+transformer_encoder.26.ffn.w12.weight [4096, 768]
+transformer_encoder.26.ffn.w3.weight [768, 2048]
+transformer_encoder.26.ffn_norm.weight [768]
+transformer_encoder.26.qkv.weight [2304, 768]
+transformer_encoder.26.wo.weight [768, 768]
+transformer_encoder.27.attention_norm.weight [768]
+transformer_encoder.27.ffn.w12.weight [4096, 768]
+transformer_encoder.27.ffn.w3.weight [768, 2048]
+transformer_encoder.27.ffn_norm.weight [768]
+transformer_encoder.27.qkv.weight [2304, 768]
+transformer_encoder.27.wo.weight [768, 768]
+transformer_encoder.3.attention_norm.weight [768]
+transformer_encoder.3.ffn.w12.weight [4096, 768]
+transformer_encoder.3.ffn.w3.weight [768, 2048]
+transformer_encoder.3.ffn_norm.weight [768]
+transformer_encoder.3.qkv.weight [2304, 768]
+transformer_encoder.3.wo.weight [768, 768]
+transformer_encoder.4.attention_norm.weight [768]
+transformer_encoder.4.ffn.w12.weight [4096, 768]
+transformer_encoder.4.ffn.w3.weight [768, 2048]
+transformer_encoder.4.ffn_norm.weight [768]
+transformer_encoder.4.qkv.weight [2304, 768]
+transformer_encoder.4.wo.weight [768, 768]
+transformer_encoder.5.attention_norm.weight [768]
+transformer_encoder.5.ffn.w12.weight [4096, 768]
+transformer_encoder.5.ffn.w3.weight [768, 2048]
+transformer_encoder.5.ffn_norm.weight [768]
+transformer_encoder.5.qkv.weight [2304, 768]
+transformer_encoder.5.wo.weight [768, 768]
+transformer_encoder.6.attention_norm.weight [768]
+transformer_encoder.6.ffn.w12.weight [4096, 768]
+transformer_encoder.6.ffn.w3.weight [768, 2048]
+transformer_encoder.6.ffn_norm.weight [768]
+transformer_encoder.6.qkv.weight [2304, 768]
+transformer_encoder.6.wo.weight [768, 768]
+transformer_encoder.7.attention_norm.weight [768]
+transformer_encoder.7.ffn.w12.weight [4096, 768]
+transformer_encoder.7.ffn.w3.weight [768, 2048]
+transformer_encoder.7.ffn_norm.weight [768]
+transformer_encoder.7.qkv.weight [2304, 768]
+transformer_encoder.7.wo.weight [768, 768]
+transformer_encoder.8.attention_norm.weight [768]
+transformer_encoder.8.ffn.w12.weight [4096, 768]
+transformer_encoder.8.ffn.w3.weight [768, 2048]
+transformer_encoder.8.ffn_norm.weight [768]
+transformer_encoder.8.qkv.weight [2304, 768]
+transformer_encoder.8.wo.weight [768, 768]
+transformer_encoder.9.attention_norm.weight [768]
+transformer_encoder.9.ffn.w12.weight [4096, 768]
+transformer_encoder.9.ffn.w3.weight [768, 2048]
+transformer_encoder.9.ffn_norm.weight [768]
+transformer_encoder.9.qkv.weight [2304, 768]
+transformer_encoder.9.wo.weight [768, 768]
+encoder.weight
+================
+neobert_base================
+
+shape (Vxd) (V lines for d columns): 30522x768
+V (vocabulary): 30522
+d (dim): 768
+V/d (proportion between size of vocab and dim. Quantify how the vocab is larger than vetorial space): 39.7
+mean norm: 1.2064  (sd 0.2542)
+centroid norm: 0.2095
+measure I(W) in raw matrix
+[[-0.00049681  0.00773542  0.01142804 ... -0.0101463   0.00159053
+   0.00819318]
+ [-0.01180872  0.00577506  0.00941388 ...  0.01112287  0.0101463
+   0.00273494]
+ [ 0.007888   -0.01002423 -0.00287227 ... -0.00063033 -0.0117027
+   0.00421866]
+ ...
+ [ 0.00504263  0.00843732 -0.01008527 ... -0.00855939 -0.00461539
+   0.00801007]
+ [ 0.00476798  0.00843732  0.00984113 ...  0.00141325  0.00794904
+   0.00843732]
+ [ 0.01196181  0.01357918 -0.01735241 ... -0.01365359  0.00161655
+  -0.02653469]]
+I(W) = 0.8004
+I(W) 2 = 0.6614
+measuring I(W) for mean centered matrix (Bis et al. 2021)
+[[-0.00459325 -0.00712196  0.0233505  ... -0.01130058 -0.01592946
+   0.01602209]
+ [-0.01590516 -0.00908232  0.02133634 ...  0.00996859 -0.00737369
+   0.01056385]
+ [ 0.00379157 -0.02488161  0.00905018 ... -0.0017846  -0.02922269
+   0.01204757]
+ ...
+ [ 0.0009462  -0.00642006  0.00183718 ... -0.00971367 -0.02213538
+   0.01583898]
+ [ 0.00067154 -0.00642006  0.02176358 ...  0.00025897 -0.00957095
+   0.01626623]
+ [ 0.00786537 -0.0012782  -0.00542995 ... -0.01480787 -0.01590344
+  -0.01870578]]
+I(W centered) = 0.9916
+I(W centered) 2 = 0.9915
+=========================================
+isotropic reference -> same shape and norm
+[[ 8.50148965e-04 -8.93252329e-04  4.33034038e-03 ... -2.06096130e-03
+   5.99175634e-05 -1.33394621e-03]
+ [-5.28492701e-03  3.71555370e-03  5.16420678e-03 ... -3.00619322e-03
+   1.24149106e-02 -1.05495048e-02]
+ [-2.67451568e-04  9.33724658e-03 -7.26406040e-04 ...  9.40324509e-03
+   1.09976376e-03 -2.12359660e-03]
+ ...
+ [ 3.85490033e-03 -7.97129522e-03  6.70222972e-03 ... -7.15821485e-03
+   1.39088456e-03  1.42461249e-03]
+ [-6.61672859e-03 -4.21038164e-03 -5.61234417e-03 ... -5.06112149e-03
+   9.12163918e-03 -5.19907467e-03]
+ [-2.55820545e-02  6.31842907e-02  4.95949288e-02 ... -1.34440611e-02
+   2.99441724e-02 -5.59857800e-02]]
+I(W reference) = 0.9981
+I(W reference) 2 = 0.9981
+=========================================
+plots
+neobert_base input
+2 axis (d=2) covers 4.5% of variance
+=========================================
+====== MY REPORT CODE ============
+==========================================================================
+ neobert_base | encoder.weight | 30522 x 768
+==========================================================================
+
+=== EMBEDDING "CLOUD" SHAPE ===
+
+rows mean norm=  1.2064  (dp 0.2542)
+mean norm of vector ||w_bar|| =   0.2095
+relative displacement ||w_bar||/mean norm=  0.1736
+mean angle between one token and mean vector:     80.0 degrees
+mean cosine between tokens pairs =   0.0283
+
+=== PARTITION FUNCTION (I(W)) ===
+
+Z(c) = sum exp(<c,wi>) about the 30522 tokens. c travesers the 768 eigenvectors of W^T W.
+
+                                                    c = +v   c = +v e -v
+    I(W) on the original matrix                     0.8004        0.6614
+    I(W) on matrix - mean vector                    0.9916        0.9915
+    I(W) with noise and same norms                  0.9981        0.9981
+    predict value by exp(-k*||w_bar||)              0.8110        0.6577
+None
+====== MACHINA ORIGINAL CODE ============
+30522 768
+==========================================================================
+neobert_base | 30522x768
+==========================================================================
+partition_function.compute_IW
+I(W), matrix in float32: 0.800441
+I(W), matrix in float64: 0.800441
+difference between them: 2.03e-09
+compute_both_IW, 1 signal: 0.800441
+dif for compute_both_IW: 1.43e-14
+
+I(W centered), float64: 0.991551
+my Wc1: 0.991551
+
+ Machina cosine_improvement.fast_cosine
+
+
+Fast Cosine took 0.01 seconds
+mean cossine, 30522 tokens : 0.028302
+
+Fast Cosine took 0.00 seconds
+
+Slow cosine took 0.46 seconds
+
+conference in a sample of 10000 tokens:
+fast_cosine (O(n)): 0.028180
+slow_cosine (O(n^2)): 0.028180
+difference: 0.00e+00
+mean cosine: 0.0283
+relative displacement^2 : 0.0301
+mean angle between two random tokens: 88.4 degrees
+==========================================================================
+{'modelo': 'neobert_base', 'IW_machina_fp32': 0.8004410266876221, 'IW_machina_fp64': 0.8004410246542033, 'cos_medio': 0.028302155435085297, 'cos_amostra_fast': 0.028180018067359924, 'cos_amostra_slow': 0.028180018067359924}
+Traceback (most recent call last):
+  File "/home/caiomadeira/Desktop/mbert-latent-space/main.py", line 312, in <module>
+    compute_output_matrix()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+TypeError: compute_output_matrix() missing 1 required positional argument: 'model_id'
