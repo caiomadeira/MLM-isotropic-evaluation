@@ -30,44 +30,44 @@ except ImportError as e:
 
 MODERN_MODELS = {
     "modernbert_base": {
-        "path": "/home/caiomadeira/modernbert/model.safetensors",
+        "path": "/home/[BLIND]/modernbert/model.safetensors",
         "model_id": "answerdotai/ModernBERT-base"
     },
 
     "modernbert_large": {
-        "path": "/home/caiomadeira/modernbert_large/model.safetensors",
+        "path": "/home/[BLIND]/modernbert_large/model.safetensors",
         "model_id": "answerdotai/ModernBERT-large"
     },
 
     "mmbert_base": {
-        "path": "/home/caiomadeira/mmbert/model.safetensors",
+        "path": "/home/[BLIND]/mmbert/model.safetensors",
         "model_id": "jhu-clsp/mmBERT-base"
     },
 
     "neobert_base": {
-        "path": "/home/caiomadeira/neobert/model.safetensors",
+        "path": "/home/[BLIND]/neobert/model.safetensors",
         "model_id": "chandar-lab/NeoBERT"
     },
 
     "eurobert_610m": {
-        "path": "/home/caiomadeira/eurobert/model.safetensors",
+        "path": "/home/[BLIND]/eurobert/model.safetensors",
         "model_id": "EuroBERT/EuroBERT-610m"
     }
 }
 
 OLD_MODELS = {
     "bert_uncased": {
-        "path": "/home/caiomadeira/bert_uncased/model.safetensors",
+        "path": "/home/[BLIND]/bert_uncased/model.safetensors",
         "model_id": "google-bert/bert-base-uncased"
     },
 
     "bert_cased": {
-        "path": "/home/caiomadeira/bert_cased/model.safetensors",
+        "path": "/home/[BLIND]/bert_cased/model.safetensors",
         "model_id": "google-bert/bert-base-cased"
     },
 
     "roberta": {
-        "path": "/home/caiomadeira/roberta/model.safetensors",
+        "path": "/home/[BLIND]/roberta/model.safetensors",
         "model_id": "FacebookAI/roberta-base"
     }
 }
